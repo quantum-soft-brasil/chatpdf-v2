@@ -156,7 +156,7 @@ function Chat({ id }: { id: string }) {
         className="flex sticky bottom-0 space-x-2 p-5 bg-indigo-600/75"
       >
         <Input
-          placeholder="Ask a Question..."
+          placeholder="Faça uma pergunta..."
           value={input}
           onChange={(e) => setInput(e.target.value)}
         />
@@ -165,7 +165,7 @@ function Chat({ id }: { id: string }) {
           {isPending ? (
             <Loader2Icon className="animate-spin text-indigo-600" />
           ) : (
-            "Ask"
+            "Enviar"
           )}
         </Button>
       </form>

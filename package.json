@@ -22,7 +22,7 @@
     "byte-size": "^9.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "firebase": "^10.12.4",
+    "firebase": "^10.12.5",
     "firebase-admin": "^12.2.0",
     "langchain": "^0.2.11",
     "lucide-react": "^0.414.0",
