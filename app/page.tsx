@@ -12,7 +12,7 @@ import Link from "next/link";
 
 const features = [
   {
-    name: "Store your PDF Documents",
+    name: "Converse com seus PDFs",
     description:
       "Keep all your important PDF files securely stored and easily accessible anytime, anywhere.",
     icon: GlobeIcon,
